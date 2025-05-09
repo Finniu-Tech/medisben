@@ -1,7 +1,7 @@
 "use client"
 
 import Image from "next/image"
-import LogoMedisben from "@/app/landing/Navbar/images/medisben.png"
+import LogoMedisben from "@/app/landing/Footer/images/medisben_white.png"
 export default function Footer() {
   return (
     <footer className="bg-[#158c8c] text-white py-12 px-6 md:px-16">
