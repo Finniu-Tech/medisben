@@ -1,7 +1,6 @@
 "use client"
 
 import Image from "next/image"
-import Link from "next/link"
 import LogoMedisben from "@/app/landing/Navbar/images/medisben.png"
 export default function Footer() {
   return (

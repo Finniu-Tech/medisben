@@ -1,4 +1,3 @@
-import Image from "next/image";
 import Hero from "@/app/landing/Hero/Hero"
 import About from "@/app/landing/About/About";
 import Especialidades from "@/app/landing/Especialidades/Especialidades";

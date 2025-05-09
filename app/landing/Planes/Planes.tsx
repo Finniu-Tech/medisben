@@ -1,6 +1,4 @@
-import Image from "next/image";
-import HeroImage from "@/app/landing/About/images/hero2.png"
-import DocBMedisben from "@/app/landing/About/images/doctora.png"
+
 export default function Planes() {
   return (
     <section className="w-full px-6 py-20 md:px-16 bg-white">
