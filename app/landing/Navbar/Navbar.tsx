@@ -30,7 +30,7 @@ export default function Navbar() {
           <a href="#home" className="hover:text-teal-400">Inicio</a>
           <a href="#somos" className="hover:text-teal-400">Nosotros</a>
           <a href="#especialidades" className="hover:text-teal-400 transition duration-300">Especialidades</a>
-          <a href="#plan" className="hover:text-teal-400">Plan de salud</a>
+          {/*<a href="#plan" className="hover:text-teal-400">Plan de salud</a>*/}
           <a href="#citas" className="hover:text-teal-400">Citas</a>
         </nav>
 
