@@ -5,7 +5,7 @@ import Urologia from "@/app/landing/Especialidades/images/urologia.png";
 
 export default function Especialidades() {
   return (
-    <section className="max-w-7xl bg-white px-6 py-20 md:px-16 text-center">
+    <section id="especialidades" className="max-w-7xl bg-white px-6 py-20 md:px-16 text-center">
       <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-16">Especialidades</h2>
 
       <div className="grid grid-cols-1 md:grid-cols-3 gap-10 justify-items-center">

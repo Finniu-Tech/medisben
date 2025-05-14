@@ -4,7 +4,8 @@ import DocMedisben from "@/app/landing/Hero/images/doctor.png"
 export default function Hero() {
   return (
     <section
-      className=" px-6 py-10 md:px-16 md:py-40"
+        id="home"
+        className=" px-6 py-10 md:px-16 md:py-40"
     >
       <div
           className="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-10 items-center"

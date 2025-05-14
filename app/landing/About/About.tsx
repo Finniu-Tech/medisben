@@ -3,7 +3,7 @@ import HeroImage from "@/app/landing/About/images/hero2.png"
 import DocBMedisben from "@/app/landing/About/images/doctora.png"
 export default function About() {
   return (
-    <section className="w-full px-6 py-20 md:px-16 bg-white"
+    <section id="somos" className="w-full px-6 py-20 md:px-16 bg-white"
     style={{
             backgroundImage: `url(${HeroImage.src})`,
             backgroundSize: "contain",

@@ -7,7 +7,7 @@ import CalendarSVG from "@/app/landing/Contacto/images/calendar.svg"
 import ContactoMedisben from "@/app/landing/Contacto/images/contacto.png"
 export default function Contacto() {
   return (
-    <section className="bg-white py-20 px-6 md:px-16 flex flex-col lg:flex-row items-center justify-between gap-12">
+    <section id="citas" className="bg-white py-20 px-6 md:px-16 flex flex-col lg:flex-row items-center justify-between gap-12">
       {/* Left Content */}
       <div className="flex-1 space-y-6 max-w-xl">
         <h2 className="text-3xl md:text-4xl font-bold text-gray-900">

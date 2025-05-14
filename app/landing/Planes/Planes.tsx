@@ -1,7 +1,7 @@
 
 export default function Planes() {
   return (
-    <section className="w-full px-6 py-20 md:px-16 bg-white">
+    <section id="plan" className="w-full px-6 py-20 md:px-16 bg-white">
       <div className="text-center mb-12">
         <h2 className="text-3xl md:text-4xl font-bold text-gray-900">
           Plan de salud <span className="text-teal-600">adaptado a tus necesidades</span>
