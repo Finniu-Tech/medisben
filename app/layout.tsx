@@ -11,7 +11,7 @@ const montserrat = Montserrat({
 })
 
 export const metadata: Metadata = {
-  title: "Medisben Especialidades Medicas",
+  title: "Medisben Peru Especialidades Medicas",
   description: "Comprometidos con tu bienestar, guiados por la ciencia y la vocación.",
 };
 
